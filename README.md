@@ -2,9 +2,7 @@
 
 Research Project: Forensic Analysis of Scam Activity on Telegram Using Open-Source Tools
 
-Institution: NATIONAL FORENSIC SCIENCES UNIVERSITY
-
-DELHI, INDIA
+Institution: NATIONAL FORENSIC SCIENCES UNIVERSITY DELHI, INDIA
 
 Course: Cybersecurity Research Project
 
